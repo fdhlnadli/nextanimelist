@@ -1,0 +1,11 @@
+1. file next.config.js untuk konfigurasi next
+2. file tailwind.config.js untuk konfigurasi tailwind
+3. jsconfig.js untuk import alias
+
+- Mulai dengan layouting fetching data atau dengan mulai dari navigation bar
+
+- Jika ingin membuat path, dengan cara membuat folder dengan didalamnya terdapat file 'page.js'
+
+- buat folder dalam src/app bernama 'components', folder components digunakan untuk membuat sebuah component yang akan bisa digunakan seraca repetitif, dan didalamnya terdapat file 'index.js'
+
+- Buat file '.env' untuk menyimpan NEXT_PUBLIC_API_BASE_URL
