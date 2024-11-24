@@ -8,4 +8,17 @@
 
 - buat folder dalam src/app bernama 'components', folder components digunakan untuk membuat sebuah component yang akan bisa digunakan seraca repetitif, dan didalamnya terdapat file 'index.js'
 
-- Buat file '.env' untuk menyimpan NEXT_PUBLIC_API_BASE_URL
+- Buat file '.env' untuk menyimpan endpoint NEXT_PUBLIC_API_BASE_URL
+
+- Masukkan nama file yang tidak ingin in staging area git di dalam .gitignore
+
+- Desain sesuai keinginan dengan tailwind css
+
+# Prosedur Pertama
+1. Fetching data
+2. Membuat component card anime list
+3. Masukkan ke dalam page
+4. Jangan lupa masukkan key kedalam div sebelum mapping data
+5. Masukkan data ID ke dalam card component Animelist
+
+- create folder dalam component, bernama "Utilities"
