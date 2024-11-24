@@ -14,7 +14,7 @@
 
 - Desain sesuai keinginan dengan tailwind css
 
-# Prosedur Pertama
+# Prosedur Setup
 1. Fetching data
 2. Membuat component card anime list
 3. Masukkan ke dalam page
@@ -22,3 +22,8 @@
 5. Masukkan data ID ke dalam card component Animelist
 
 - create folder dalam component, bernama "Utilities"
+- create file "index.js"
+- buat header berupa navigation bar di dalam Utilities
+- setting gambar di tag <Image/>
+
+# Prosedur Search Input API
